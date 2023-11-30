@@ -11,7 +11,6 @@ function Container(props) {
         max-width: calc(100% - 24px);
         margin: 0 auto;
         height: 100px;
-        background: green;
       `}
     >
       {children}
